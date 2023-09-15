@@ -7,7 +7,7 @@
     <body>
         <h1 style="text-align:center; color:rgb(63, 16, 107); font-size:200%;">Contact</h1>
         <nav style = "text-align:center; background-color:rgb(160, 93, 189); font-size: 120%;">
-            <a href="personal_website.md">Home</a>
+            <a href="readme.md">Home</a>
         </nav>
         <p style = "text-align:center; background-color:rgb(235, 222, 247); font-size:120%;">
             You can find me by email: adarilekhya@gmail.com <br>
