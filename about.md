@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset = "utf-8">
-        <title>Lekhya Adari Personal Website</title>
+<!--         <title>Lekhya Adari Personal Website</title> -->
     </head>
     <body>
         <h1 style = "text-align:center; color:rgb(63, 16, 107); font-size:200%;">About Me</h1>
